@@ -2,8 +2,7 @@
 
 <?php include __DIR__. '/Komponen/Navbar.php'; ?>
 
-
-
+<?php include __DIR__. '/Komponen/Kaki.php'; ?>
 
 
 

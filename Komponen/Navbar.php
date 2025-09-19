@@ -18,7 +18,7 @@
         </li>
 
         <!-- Dropdown Menu -->
-        <li class="nav-item dropdown">
+        <!-- <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown">
             Categories
           </a>
@@ -27,7 +27,7 @@
             <li><a class="dropdown-item" href="#">PC Components</a></li>
             <li><a class="dropdown-item" href="#">Accessories</a></li>
           </ul>
-        </li>
+        </li> -->
 
         <li class="nav-item">
           <a class="nav-link" href="#">About</a>
@@ -37,7 +37,7 @@
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="#">Login</a>
+          <a class="nav-link" href="#"><i class="fa fa-sign-in"></i> Login</a>
         </li>
 
       </ul>

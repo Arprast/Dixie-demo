@@ -1,4 +1,4 @@
-/* Navbar styling */
+/* Navbar styling 1-21 */
 .modern-navbar {
   background-color: #121212;
   font-family: 'Segoe UI', Roboto, sans-serif;
@@ -19,3 +19,42 @@
 }
 
 /* Dropdown menu dark styling (Bootstrap class) already handles the dark background */
+
+/* Footer styling 23-59 */
+.footer-dark {
+  background-color: #111;
+  color: #ccc;
+  font-size: 14px;
+}
+
+.footer-dark h5 {
+  color: #fff;
+  margin-bottom: 15px;
+}
+
+.footer-dark .footer-link {
+  color: #ccc;
+  text-decoration: none;
+  display: block;
+  margin-bottom: 6px;
+  transition: color 0.2s;
+}
+
+.footer-dark .footer-link:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.footer-dark ul {
+  padding-left: 0;
+  list-style: none;
+}
+
+.footer-dark i {
+  color: #aaa;
+}
+
+.footer-dark hr {
+  border-color: #333;
+}
+
