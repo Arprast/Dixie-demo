@@ -4,7 +4,7 @@
 
       <!-- About Section -->
       <div class="col-md-4 mb-4">
-        <img src="Asset/img/Logo.jpg" alt="Top Up dulu dong biar ada logo" class="d-block w-25">
+        <img src="Asset/img/Logo.png" alt="Top Up dulu dong biar ada logo" class="d-block w-25">
         <h5 class="fw-semibold" Style="padding-top:20px;">Dixie Store.id</h5>
         <p class="small">
           Toko terpercaya untuk segala kebutuhan gaming Anda. Menyediakan gear, komponen PC, dan aksesoris terbaik.

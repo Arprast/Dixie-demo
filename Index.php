@@ -2,9 +2,9 @@
 
 <?php include __DIR__. '/Komponen/Navbar.php'; ?>
 
+
+
+
 <?php include __DIR__. '/Komponen/Kaki.php'; ?>
-
-
-
 
 <?php include __DIR__. '/Partials/Foot.php'; ?>
