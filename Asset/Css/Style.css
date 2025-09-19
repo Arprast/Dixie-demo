@@ -1,0 +1,21 @@
+/* Navbar styling */
+.modern-navbar {
+  background-color: #121212;
+  font-family: 'Segoe UI', Roboto, sans-serif;
+  font-size: 16px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+}
+
+/* Nav links */
+.navbar-nav .nav-link {
+  color: #e0e0e0;
+  margin: 0 8px;
+  transition: color 0.2s ease;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+  color: #ffffff;
+}
+
+/* Dropdown menu dark styling (Bootstrap class) already handles the dark background */
