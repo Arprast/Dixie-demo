@@ -15,10 +15,9 @@
       <div class="col-md-4 mb-4">
         <h5 class="fw-semibold">Quick Links</h5>
         <ul class="list-unstyled">
-          <li><a href="./" class="footer-link">Home</a></li>
-          <li><a href="./" class="footer-link">Products</a></li>
-          <li><a href="./" class="footer-link">About</a></li>
-          <li><a href="./" class="footer-link">Contact</a></li>
+          <li><a href="./" class="footer-link">Beranda</a></li>
+          <li><a href="./" class="footer-link">Cara Top Up</a></li>
+          <li><a href="./" class="footer-link">Kontak</a></li>
         </ul>
       </div>
 
@@ -28,7 +27,7 @@
         <ul class="list-unstyled small">
           <li><i class="fas fa-envelope me-2"></i> support@dixiestore.id</li>
           <li><i class="fas fa-phone me-2"></i> +62 812-3456-7890</li>
-          <li><i class="fas fa-map-marker-alt me-2"></i> Jakarta, Indonesia</li>
+          <li><i class="fas fa-map-marker-alt me-2"></i> Jambi, Indonesia</li>
         </ul>
       </div>
 
