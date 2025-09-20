@@ -23,32 +23,28 @@
       <!-- Menu -->
       <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" href="#">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Products</a>
+          <a class="nav-link active" href="#">Beranda</a>
         </li>
 
       <!-- Dropdown Menu -->
-      <!-- <li class="nav-item dropdown">
+      <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown">
-          Categories
+          Produk
         </a>
         <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDropdown">
-          <li><a class="dropdown-item" href="#">Gaming Gear</a></li>
-          <li><a class="dropdown-item" href="#">PC Components</a></li>
-          <li><a class="dropdown-item" href="#">Accessories</a></li>
+          <li><a class="dropdown-item" href="#">Game</a></li>
+          <li><a class="dropdown-item" href="#">Top Up Via Login</a></li>
+          <li><a class="dropdown-item" href="#">Pencarian</a></li>
+          <li><a class="dropdown-item" href="#">Contact</a></li>
         </ul>
-      </li> -->
+      </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="#">About</a>
+          <a class="nav-link" href="#">Cara Top Up</a>
         </li>
+        
         <li class="nav-item">
-          <a class="nav-link" href="#">Contact</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#"><i class="fa fa-sign-in"></i> Login</a>
+          <a class="nav-link" href="#"><i class="fa fa-sign-in"></i> Masuk</a>
         </li>
       </ul>
     </div>
