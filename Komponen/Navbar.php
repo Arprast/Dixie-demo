@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark modern-navbar shadow-sm">
   <div class="container">
     <!-- Logo -->
-    <a class="navbar-brand d-flex align-items-center" href="#">
+    <a class="navbar-brand d-flex align-items-center" href="Index.php">
       <img src="Asset/img/Logo.png" alt="Logo" width="40" height="40" class="me-2 rounded-circle">
       <span class="fw-semibold">Dixie Store.id</span>
     </a>
@@ -54,7 +54,7 @@
 
         <!-- Masuk -->
         <li class="nav-item">
-          <a class="nav-link" href="#"><i class="fa fa-sign-in"></i> Masuk</a>
+          <a class="nav-link" href="Login.php"><i class="fa fa-sign-in"></i> Masuk</a>
         </li>
       </ul>
     </div>

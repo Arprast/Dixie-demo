@@ -74,3 +74,70 @@
   }
 </style>
 
+/* Halaman Login */
+  body {
+  background: url('https://wallpapercave.com/wp/wp6600423.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
+
+.auth-card {
+  background: rgba(20, 20, 20, 0.9);
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 0 25px rgba(0,0,0,0.7);
+  max-width: 900px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.auth-left {
+  background: url('https://i.ibb.co/k05sGDW/mlbb-hero.jpg') no-repeat center center;
+  background-size: cover;
+  min-height: 500px;
+  flex: 1;
+}
+
+.auth-right {
+  flex: 1;
+  padding: 40px;
+  color: #fff;
+}
+
+/* Tombol custom */
+.btn-custom {
+  background: #f8c200;
+  border: none;
+  color: #000;
+  font-weight: bold;
+}
+.btn-custom:hover {
+  background: #e0ac00;
+}
+
+/* Responsif: sembunyikan gambar di HP */
+@media (max-width: 768px) {
+  body {
+    align-items: flex-start; /* biar form mulai dari atas di HP */
+    padding: 20px;
+  }
+  .auth-card {
+    max-width: 100%;
+    box-shadow: none;
+    background: transparent;
+  }
+  .auth-left {
+    display: none;
+  }
+  .auth-right {
+    background: rgba(20, 20, 20, 0.95);
+    border-radius: 12px;
+    padding: 30px 20px;
+    width: 100%;
+  }
+}
