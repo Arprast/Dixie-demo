@@ -12,7 +12,7 @@
           <img src="Asset/img/ML.jpg" class="card-img-top" alt="Mobile Legends" style="height:200px; object-fit:cover;">
           <div class="card-body text-center">
             <h5 class="card-title">Mobile Legends</h5>
-            <a href="#" class="btn btn-light btn-sm">Top Up Sekarang</a>
+            <a href="ML.php" class="btn btn-light btn-sm">Top Up Sekarang</a>
           </div>
         </div>
       </div>

@@ -17,7 +17,7 @@
         
         <!-- Beranda -->
         <li class="nav-item">
-          <a class="nav-link active" href="#">Beranda</a>
+          <a class="nav-link active" href="Index.php">Beranda</a>
         </li>
 
         <!-- 🔍 Search Icon -->

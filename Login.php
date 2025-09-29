@@ -2,6 +2,8 @@
 
 <?php include __DIR__. '/Komponen/Navbar.php'; ?>
 
+<?php include __DIR__. '/Komponen/slider.php'; ?>
+
  <div class="auth-card">
   <!-- Kiri (Gambar) hanya muncul di desktop -->
   <div class="auth-left d-none d-md-block">
